@@ -1,0 +1,7 @@
+{
+  "name": "Copy of MicroPro - Gestion PME & Artisans",
+  "description": "Un Micro-SaaS complet pour gérer vos clients, commandes et factures, optimisé pour mobile et prêt pour le marché africain.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
